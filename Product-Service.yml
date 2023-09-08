@@ -7,8 +7,6 @@ server:
   port: 8082
 
 spring:
-  application:
-    name: Product-Service
   cloud:
     config:
       uri: http://localhost:8889
