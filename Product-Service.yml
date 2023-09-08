@@ -8,7 +8,7 @@ server:
 
 spring:
   application:
-    name: SecoundMicroservice
+    name: Product-Service
   cloud:
     config:
       uri: http://localhost:8889
